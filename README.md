@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+🌱 I’m currently learning Programming!
+
+Wish me luck!!!
+
 <!--
 **kavyad111/kavyad111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
